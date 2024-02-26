@@ -120,4 +120,4 @@ if ! shopt -oq posix; then
 fi
 
 
-PATH=~/.local/bin:$PATH
+PATH=~/bin:~/.local/bin:$PATH
