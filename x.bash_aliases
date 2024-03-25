@@ -1,7 +1,7 @@
 
 # ls
-alias ls='ls -hF --color=auto'
-alias dir='ls -hlF --color=auto'
+alias ls='ls -hFG'
+alias dir='ls -hlFG'
 alias vi='vim'
 
 # docker
